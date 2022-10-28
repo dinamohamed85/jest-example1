@@ -1,2 +1,3 @@
 # jest-example1
-first example to javascript unit testing
+first example to learn javascript unit testing
+ 
