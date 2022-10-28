@@ -21,3 +21,15 @@
 - 11- what parts of code are tested, which functions and lines get tested:
 	change package.json\ test: "jest --coverage" 
 
+## Screenshots 🎉
+
+<table >
+ <tr>
+  <td><img src='screenshots/img1.png' width='100%' /></td>
+  <td><img src='screenshots/img2.png' width='100%' /></td>
+  <td><img src='screenshots/img3.png' width='100%' /></td>
+  <td><img src='screenshots/img4.png' width='100%' /></td>
+  <td><img src='screenshots/img5.png' width='100%' /></td>
+ </tr>
+ </tr>
+</table>
