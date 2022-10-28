@@ -27,9 +27,12 @@
  <tr>
   <td><img src='screenshots/img1.png' width='100%' /></td>
   <td><img src='screenshots/img2.png' width='100%' /></td>
+ </tr>
+ <tr> 
   <td><img src='screenshots/img3.png' width='100%' /></td>
   <td><img src='screenshots/img4.png' width='100%' /></td>
-  <td><img src='screenshots/img5.png' width='100%' /></td>
  </tr>
+  <tr> 
+  <td><img src='screenshots/img5.png' width='100%' /></td>
  </tr>
 </table>
