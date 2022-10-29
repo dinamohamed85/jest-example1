@@ -5,7 +5,8 @@
 - 2- npm i --save-dev jest	//create node_moudules folder
 - 3- change package.json\ test: "jest"
 - 4- npm test  // no thing happens
-- 5- Create new file has same name like js files + (.test) --> "sum.test.js"
+- 5- Create new file has same name like js files + (.test) -->   <br />
+    "sum.test.js"
 - 6- into js file: add export scripts to be imported into another file -->   <br />
     module.exports= function_name 
 - 7- into test file: add import script for js file as first line -->  <br />
@@ -18,7 +19,7 @@
 	expect(sum(1,2)).not.toBe(3)     <br />
 	expect(cloneArray(array)).toEqual(array)
 - 10- npm test
-- 11- What parts of code are tested, which functions and lines get tested:
+- 11- What parts of code are tested, which functions and lines get tested:   <br />
 	change package.json\ test: "jest --coverage" 
 - 12- You sould get result like this:-
 <table >
