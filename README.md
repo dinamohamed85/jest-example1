@@ -20,7 +20,7 @@
 - 10- npm test
 - 11- What parts of code are tested, which functions and lines get tested:   <br />
 	change package.json\ test: "jest --coverage" 
-- 12- Move test files to folder __test__
+- 12- Move the test files to folder (_test_)
 - 13- You sould get result like this :-
 <table >
  <tr>
