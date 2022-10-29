@@ -11,8 +11,7 @@
     module.exports= function_name 
 - 7- into test file: add import script for js file as first line -->  <br />
     const function_name= require('./file_name')
-- 8- into test file: add test method with tow parameters, parameter one is for description for what the test is doing, 
-- second parameter is a callback function to waht it called to run your test (the expected result happens)   <br />
+- 8- into test file: add test method with tow parameters, parameter one is for description for what the test is doing, second parameter is a callback function to waht it called to run your test (the expected result happens)   <br />
 	test('adds two numbers', () =>{})
 - 9- Add the built in function to do the testing (expect somethig to be equal something else) (expect) -->  <br />
 	expect(sum(1,2)).toBe(3)     <br />
