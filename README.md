@@ -1,4 +1,4 @@
-# -- First example to learn javascript unit testing.
+# -- First example to learn & steup javascript unit testing with jest.
 
 - 0- npm install -g npm	//download the latest version of node
 - 1- npm init -y   //create package.json file and intialize defualt values into it
@@ -20,7 +20,8 @@
 - 10- npm test
 - 11- What parts of code are tested, which functions and lines get tested:   <br />
 	change package.json\ test: "jest --coverage" 
-- 12- You sould get result like this :-
+- 12- Move test files to folder __test__
+- 13- You sould get result like this :-
 <table >
  <tr>
   <td><img src='screenshots/img5.png' width='100%' /></td>
