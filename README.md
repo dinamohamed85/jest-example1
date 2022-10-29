@@ -13,8 +13,8 @@
 - 8- into test file: add test method with tow parameters, parameter one is for description for what the test is doing, 
 - second parameter is a callback function to waht it called to run your test (the expected result happens)
 	test('adds two numbers', () =>{})
-- 9- aAdd the built in function to do the testing (expect somethig to be equal something else) (expect) -->
-	expect(sum(1,2)).toBe(3)
+- 9- aAdd the built in function to do the testing (expect somethig to be equal something else) (expect) --> \n
+	expect(sum(1,2)).toBe(3)    \n
 	expect(sum(1,2)).not.toBe(3)
 	expect(cloneArray(array)).toEqual(array)
 - 10- npm test
