@@ -5,7 +5,7 @@
 - 2- npm i --save-dev jest	//create node_moudules folder
 - 3- Change package.json\ test: "jest"
 - 4- npm test  // no thing happens
-- 5- Create new file has same name like js files + (.test) -->   <br />
+- 5- Create new file has same name like js files (.test) or (.spec) -->   <br />
     "sum.test.js"
 - 6- into js file: add export scripts to be imported into another file -->   <br />
     module.exports= function_name 
