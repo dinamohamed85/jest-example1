@@ -1,6 +1,6 @@
-# -- First example to steup & learn javascript unit testing with jest.
+## First example to steup & learn javascript unit testing with jest.
 
-- 0- npm install -g npm	//download the latest version of node
+- 0- download the latest version of node : <a href="https://nodejs.org/en/download/" target="_blank"></a> 
 - 1- npm init -y   //create package.json file and intialize defualt values into it
 - 2- npm i --save-dev jest	//create node_moudules folder
 - 3- Change package.json\ test: "jest"
