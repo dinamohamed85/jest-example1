@@ -28,6 +28,14 @@
  </tr>
  </table>
 
+## Useful links
+- web site -> https://sinonjs.org/ : Standalone test spies, stubs and mocks for JavaScript.
+Works with any unit testing framework.
+- jest Documentation and commands: https://jestjs.io/
+- jest Cheat Sheet :  https://devhints.io/jest
+- jest github : https://github.com/sapegin/jest-cheat-sheet
+
+
 # Some notes about testing :-
     Academind Youtube channel
     https://www.youtube.com/watch?v=r9HdJ8P6GQI&t=1516s
